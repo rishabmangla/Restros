@@ -1,0 +1,7 @@
+<resources>
+        
+    <dimen name="name">17dp</dimen>
+    <dimen name="distance">15dip</dimen>
+    <dimen name="cuisine">13dip</dimen>
+
+</resources>
